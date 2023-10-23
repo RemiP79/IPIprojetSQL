@@ -1,4 +1,5 @@
 /*
+Là je suis sur branche1
 -------------------------------------------
 Le magasin AMAGONE vend des produits en dropshipping, où plusieurs vendeurs peuvent proposer des produits pré-existants, au prix qu'ils souhaitent et en renseignant leur stock disponible.
 Chaque client peut passer commande d'une ou plusieurs offres ('propal'), en choisissant pour chacune un mode de livraison proposé parmis une liste.
