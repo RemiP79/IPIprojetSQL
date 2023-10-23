@@ -16,6 +16,9 @@ IPI LYON - 06/10/2023
 Je modifie le main pour vous faire chier et oui
 */
 
+-- Ajout d'une fonctionnalité :
+CREATE DATEBASE amagone; -- création de la base
+
 -- commandes sqlite3 pour l'affichage :
 .header on
 .mode column
