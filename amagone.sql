@@ -2,6 +2,8 @@
 Modification depuis le distant
 Je Fais un essai pour merger des branches
 
+zizi
+
 Là je suis sur branche1
 -------------------------------------------
 Le magasin AMAGONE vend des produits en dropshipping, où plusieurs vendeurs peuvent proposer des produits pré-existants, au prix qu'ils souhaitent et en renseignant leur stock disponible.
