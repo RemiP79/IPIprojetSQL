@@ -11,6 +11,7 @@ A chaque commande est associé un ou plusieurs paiements.
 -------------------------------------------
 Rémi Perez / JC Kleinbourg
 IPI LYON - 06/10/2023
+Je modifie le main pour vous faire chier
 */
 
 -- commandes sqlite3 pour l'affichage :
