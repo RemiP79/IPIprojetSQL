@@ -2,7 +2,7 @@
 Modification depuis le distant
 Je Fais un essai pour merger des branches
 
-Là je suis sur branche1
+
 -------------------------------------------
 Le magasin AMAGONE vend des produits en dropshipping, où plusieurs vendeurs peuvent proposer des produits pré-existants, au prix qu'ils souhaitent et en renseignant leur stock disponible.
 Chaque client peut passer commande d'une ou plusieurs offres ('propal'), en choisissant pour chacune un mode de livraison proposé parmis une liste.
@@ -11,7 +11,11 @@ A chaque commande est associé un ou plusieurs paiements.
 -------------------------------------------
 Rémi Perez / JC Kleinbourg
 IPI LYON - 06/10/2023
+Je modifie le main pour vous faire chier et oui
 */
+
+-- Ajout d'une fonctionnalité :
+CREATE DATEBASE amagone; -- création de la base
 
 -- commandes sqlite3 pour l'affichage :
 .header on
