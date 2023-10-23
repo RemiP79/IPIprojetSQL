@@ -13,6 +13,9 @@ Rémi Perez / JC Kleinbourg
 IPI LYON - 06/10/2023
 */
 
+-- Ajout d'une fonctionnalité :
+CREATE DATEBASE amagone; -- création de la base
+
 -- commandes sqlite3 pour l'affichage :
 .header on
 .mode column
